@@ -11,7 +11,7 @@ function Signup({ CiUser, TbPasswordUser, FormHandle }) {
 
     console.log(User, Email, Password);
 
-    // Reset state variables after form submission
+    
     setUser('');
     setEmail('');
     setPassword('');
